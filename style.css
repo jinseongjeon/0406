@@ -807,7 +807,7 @@ body {
   margin-bottom: 2rem;
 }
 
-@media screen and (max-width: 1900px) {
+@media screen and (max-width: 1919px) {
   .media1920{display:flex}
   body{overflow: hidden;}
 }
